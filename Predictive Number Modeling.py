@@ -4,7 +4,7 @@ Welcome! In this program, I will show you that I can predict the number Isaac wi
 ************************************************""")
 num_1 = int(input("Please provide a 4 digit number: "))
 print(num_1)
-#Isaac will add 20004 to whatever the number is
+#Isaac will add 20004 to whatever the number is, and write in on a sticky note
 num_2 = int(input("Please provide another 4 digit number: "))
 print(num_2)
 #The following loop will add 10005 to the second number
